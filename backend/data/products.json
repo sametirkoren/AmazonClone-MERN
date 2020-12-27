@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Blabla",
+        "price" : "45.89",
+        "description" : "blablabla",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"products/131231312",
+            "url":"asdasdsadasdsa"
+        }],
+        "category":"Electronics",
+        "seller" : "Ebay",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews" : []
+    },
+    {
+        "name" : "Blablabla",
+        "price" : "315.00",
+        "description" : "Blablabla",
+        "ratings" : 1.65,
+        "images": [{
+            "public_id":"products/casdada",
+            "url":"asdasdasdadasdsad"
+        }],
+        "category":"Cameras",
+        "seller": "Amazon",
+        "stock":131,
+        "numOfReviews" : 222,
+        "reviews": []
+    }
+]
